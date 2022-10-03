@@ -2,6 +2,9 @@
     "version": 2,
     "public": true,
     "routes": [
-        { "src": "/.*", "dest": "api/Jay.json" }
+        { "src": "/", "dest": "api/Jay.json" },
+        { "src": "/song/*", "dest": "song/" },
+        { "src": "/lrc/*", "dest": "lrc/" },
+        { "src": "/pic/*", "dest": "pic/" }
     ]
 }
