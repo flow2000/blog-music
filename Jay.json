@@ -1,0 +1,415 @@
+[
+    {
+        "name": "Mine Mine",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/100.mp3",
+        "lrc": "https://music.panghai.top/lrc/100.lrc",
+        "cover": "https://music.panghai.top/pic/100.webp"
+    },
+    {
+        "name": "Mojito",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/101.mp3",
+        "lrc": "https://music.panghai.top/lrc/101.lrc",
+        "cover": "https://music.panghai.top/pic/101.webp"
+    },
+    {
+        "name": "一路向北",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/102.mp3",
+        "lrc": "https://music.panghai.top/lrc/102.lrc",
+        "cover": "https://music.panghai.top/pic/102.webp"
+    },
+    {
+        "name": "七里香",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/103.mp3",
+        "lrc": "https://music.panghai.top/lrc/103.lrc",
+        "cover": "https://music.panghai.top/pic/103.webp"
+    },
+    {
+        "name": "不爱我就拉倒",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/104.mp3",
+        "lrc": "https://music.panghai.top/lrc/104.lrc",
+        "cover": "https://music.panghai.top/pic/104.webp"
+    },
+    {
+        "name": "不能说的秘密",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/105.mp3",
+        "lrc": "https://music.panghai.top/lrc/105.lrc",
+        "cover": "https://music.panghai.top/pic/105.webp"
+    },
+    {
+        "name": "不该 (with aMEI)",
+        "artist": "周杰伦、张惠妹",
+        "url": "https://music.panghai.top/song/106.mp3",
+        "lrc": "https://music.panghai.top/lrc/106.lrc",
+        "cover": "https://music.panghai.top/pic/106.webp"
+    },
+    {
+        "name": "东风破",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/107.mp3",
+        "lrc": "https://music.panghai.top/lrc/107.lrc",
+        "cover": "https://music.panghai.top/pic/107.webp"
+    },
+    {
+        "name": "倒影",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/108.mp3",
+        "lrc": "https://music.panghai.top/lrc/108.lrc",
+        "cover": "https://music.panghai.top/pic/108.webp"
+    },
+    {
+        "name": "借口",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/109.mp3",
+        "lrc": "https://music.panghai.top/lrc/109.lrc",
+        "cover": "https://music.panghai.top/pic/109.webp"
+    },
+    {
+        "name": "兰亭序",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/110.mp3",
+        "lrc": "https://music.panghai.top/lrc/110.lrc",
+        "cover": "https://music.panghai.top/pic/110.webp"
+    },
+    {
+        "name": "半岛铁盒",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/111.mp3",
+        "lrc": "https://music.panghai.top/lrc/111.lrc",
+        "cover": "https://music.panghai.top/pic/111.webp"
+    },
+    {
+        "name": "反方向的钟",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/112.mp3",
+        "lrc": "https://music.panghai.top/lrc/112.lrc",
+        "cover": "https://music.panghai.top/pic/112.webp"
+    },
+    {
+        "name": "发如雪",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/113.mp3",
+        "lrc": "https://music.panghai.top/lrc/113.lrc",
+        "cover": "https://music.panghai.top/pic/113.webp"
+    },
+    {
+        "name": "可爱女人",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/114.mp3",
+        "lrc": "https://music.panghai.top/lrc/114.lrc",
+        "cover": "https://music.panghai.top/pic/114.webp"
+    },
+    {
+        "name": "听妈妈的话",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/115.mp3",
+        "lrc": "https://music.panghai.top/lrc/115.lrc",
+        "cover": "https://music.panghai.top/pic/115.webp"
+    },
+    {
+        "name": "告白气球",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/116.mp3",
+        "lrc": "https://music.panghai.top/lrc/116.lrc",
+        "cover": "https://music.panghai.top/pic/116.webp"
+    },
+    {
+        "name": "夜曲",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/117.mp3",
+        "lrc": "https://music.panghai.top/lrc/117.lrc",
+        "cover": "https://music.panghai.top/pic/117.webp"
+    },
+    {
+        "name": "她的睫毛",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/118.mp3",
+        "lrc": "https://music.panghai.top/lrc/118.lrc",
+        "cover": "https://music.panghai.top/pic/118.webp"
+    },
+    {
+        "name": "安静",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/119.mp3",
+        "lrc": "https://music.panghai.top/lrc/119.lrc",
+        "cover": "https://music.panghai.top/pic/119.webp"
+    },
+    {
+        "name": "屋顶",
+        "artist": "温岚、周杰伦",
+        "url": "https://music.panghai.top/song/120.mp3",
+        "lrc": "https://music.panghai.top/lrc/120.lrc",
+        "cover": "https://music.panghai.top/pic/120.webp"
+    },
+    {
+        "name": "彩虹",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/121.mp3",
+        "lrc": "https://music.panghai.top/lrc/121.lrc",
+        "cover": "https://music.panghai.top/pic/121.webp"
+    },
+    {
+        "name": "我是如此相信",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/122.mp3",
+        "lrc": "https://music.panghai.top/lrc/122.lrc",
+        "cover": "https://music.panghai.top/pic/122.webp"
+    },
+    {
+        "name": "我落泪情绪零碎",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/123.mp3",
+        "lrc": "https://music.panghai.top/lrc/123.lrc",
+        "cover": "https://music.panghai.top/pic/123.webp"
+    },
+    {
+        "name": "手写的从前",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/124.mp3",
+        "lrc": "https://music.panghai.top/lrc/124.lrc",
+        "cover": "https://music.panghai.top/pic/124.webp"
+    },
+    {
+        "name": "搁浅",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/125.mp3",
+        "lrc": "https://music.panghai.top/lrc/125.lrc",
+        "cover": "https://music.panghai.top/pic/125.webp"
+    },
+    {
+        "name": "断了的弦",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/126.mp3",
+        "lrc": "https://music.panghai.top/lrc/126.lrc",
+        "cover": "https://music.panghai.top/pic/126.webp"
+    },
+    {
+        "name": "明明就",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/127.mp3",
+        "lrc": "https://music.panghai.top/lrc/127.lrc",
+        "cover": "https://music.panghai.top/pic/127.webp"
+    },
+    {
+        "name": "星晴",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/128.mp3",
+        "lrc": "https://music.panghai.top/lrc/128.lrc",
+        "cover": "https://music.panghai.top/pic/128.webp"
+    },
+    {
+        "name": "晴天",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/129.mp3",
+        "lrc": "https://music.panghai.top/lrc/129.lrc",
+        "cover": "https://music.panghai.top/pic/129.webp"
+    },
+    {
+        "name": "暗号",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/130.mp3",
+        "lrc": "https://music.panghai.top/lrc/130.lrc",
+        "cover": "https://music.panghai.top/pic/130.webp"
+    },
+    {
+        "name": "本草纲目",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/131.mp3",
+        "lrc": "https://music.panghai.top/lrc/131.lrc",
+        "cover": "https://music.panghai.top/pic/131.webp"
+    },
+    {
+        "name": "枫",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/132.mp3",
+        "lrc": "https://music.panghai.top/lrc/132.lrc",
+        "cover": "https://music.panghai.top/pic/132.webp"
+    },
+    {
+        "name": "浪漫手机",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/133.mp3",
+        "lrc": "https://music.panghai.top/lrc/133.lrc",
+        "cover": "https://music.panghai.top/pic/133.webp"
+    },
+    {
+        "name": "烟花易冷",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/134.mp3",
+        "lrc": "https://music.panghai.top/lrc/134.lrc",
+        "cover": "https://music.panghai.top/pic/134.webp"
+    },
+    {
+        "name": "爱在西元前",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/135.mp3",
+        "lrc": "https://music.panghai.top/lrc/135.lrc",
+        "cover": "https://music.panghai.top/pic/135.webp"
+    },
+    {
+        "name": "爱情悬崖",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/136.mp3",
+        "lrc": "https://music.panghai.top/lrc/136.lrc",
+        "cover": "https://music.panghai.top/pic/136.webp"
+    },
+    {
+        "name": "爱的飞行日记",
+        "artist": "周杰伦、杨瑞代",
+        "url": "https://music.panghai.top/song/137.mp3",
+        "lrc": "https://music.panghai.top/lrc/137.lrc",
+        "cover": "https://music.panghai.top/pic/137.webp"
+    },
+    {
+        "name": "爷爷泡的茶",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/138.mp3",
+        "lrc": "https://music.panghai.top/lrc/138.lrc",
+        "cover": "https://music.panghai.top/pic/138.webp"
+    },
+    {
+        "name": "珊瑚海",
+        "artist": "周杰伦、Lara梁心颐",
+        "url": "https://music.panghai.top/song/139.mp3",
+        "lrc": "https://music.panghai.top/lrc/139.lrc",
+        "cover": "https://music.panghai.top/pic/139.webp"
+    },
+    {
+        "name": "白色风车",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/140.mp3",
+        "lrc": "https://music.panghai.top/lrc/140.lrc",
+        "cover": "https://music.panghai.top/pic/140.webp"
+    },
+    {
+        "name": "稻香",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/141.mp3",
+        "lrc": "https://music.panghai.top/lrc/141.lrc",
+        "cover": "https://music.panghai.top/pic/141.webp"
+    },
+    {
+        "name": "等你下课 (with 杨瑞代)",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/142.mp3",
+        "lrc": "https://music.panghai.top/lrc/142.lrc",
+        "cover": "https://music.panghai.top/pic/142.webp"
+    },
+    {
+        "name": "简单爱",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/143.mp3",
+        "lrc": "https://music.panghai.top/lrc/143.lrc",
+        "cover": "https://music.panghai.top/pic/143.webp"
+    },
+    {
+        "name": "粉色海洋",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/144.mp3",
+        "lrc": "https://music.panghai.top/lrc/144.lrc",
+        "cover": "https://music.panghai.top/pic/144.webp"
+    },
+    {
+        "name": "红尘客栈",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/145.mp3",
+        "lrc": "https://music.panghai.top/lrc/145.lrc",
+        "cover": "https://music.panghai.top/pic/145.webp"
+    },
+    {
+        "name": "红颜如霜",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/146.mp3",
+        "lrc": "https://music.panghai.top/lrc/146.lrc",
+        "cover": "https://music.panghai.top/pic/146.webp"
+    },
+    {
+        "name": "给我一首歌的时间",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/147.mp3",
+        "lrc": "https://music.panghai.top/lrc/147.lrc",
+        "cover": "https://music.panghai.top/pic/147.webp"
+    },
+    {
+        "name": "花海",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/148.mp3",
+        "lrc": "https://music.panghai.top/lrc/148.lrc",
+        "cover": "https://music.panghai.top/pic/148.webp"
+    },
+    {
+        "name": "蒲公英的约定",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/149.mp3",
+        "lrc": "https://music.panghai.top/lrc/149.lrc",
+        "cover": "https://music.panghai.top/pic/149.webp"
+    },
+    {
+        "name": "说了再见",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/150.mp3",
+        "lrc": "https://music.panghai.top/lrc/150.lrc",
+        "cover": "https://music.panghai.top/pic/150.webp"
+    },
+    {
+        "name": "说好不哭 (with 五月天阿信)",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/151.mp3",
+        "lrc": "https://music.panghai.top/lrc/151.lrc",
+        "cover": "https://music.panghai.top/pic/151.webp"
+    },
+    {
+        "name": "说好的幸福呢",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/152.mp3",
+        "lrc": "https://music.panghai.top/lrc/152.lrc",
+        "cover": "https://music.panghai.top/pic/152.webp"
+    },
+    {
+        "name": "轨迹",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/153.mp3",
+        "lrc": "https://music.panghai.top/lrc/153.lrc",
+        "cover": "https://music.panghai.top/pic/153.webp"
+    },
+    {
+        "name": "还在流浪",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/154.mp3",
+        "lrc": "https://music.panghai.top/lrc/154.lrc",
+        "cover": "https://music.panghai.top/pic/154.webp"
+    },
+    {
+        "name": "错过的烟火",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/155.mp3",
+        "lrc": "https://music.panghai.top/lrc/155.lrc",
+        "cover": "https://music.panghai.top/pic/155.webp"
+    },
+    {
+        "name": "阳光宅男",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/156.mp3",
+        "lrc": "https://music.panghai.top/lrc/156.lrc",
+        "cover": "https://music.panghai.top/pic/156.webp"
+    },
+    {
+        "name": "青花瓷",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/157.mp3",
+        "lrc": "https://music.panghai.top/lrc/157.lrc",
+        "cover": "https://music.panghai.top/pic/157.webp"
+    },
+    {
+        "name": "龙卷风",
+        "artist": "周杰伦",
+        "url": "https://music.panghai.top/song/158.mp3",
+        "lrc": "https://music.panghai.top/lrc/158.lrc",
+        "cover": "https://music.panghai.top/pic/158.webp"
+    }
+]
