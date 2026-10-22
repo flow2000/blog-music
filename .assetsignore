@@ -1,0 +1,7 @@
+# 这些文件不作为静态资源上传
+.git
+node_modules
+wrangler.toml
+vercel.json
+worker.js
+.assetsignore
